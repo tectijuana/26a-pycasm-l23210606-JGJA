@@ -5,34 +5,50 @@ _italic text_
   se ve la imagen en blanco con una cruz roja.
 --->
 Proyecto: Integración Python + C + ARM64 Assembly
-Autor
-Jardin Gracia Jose Alberto
 
-Descripción
-Este proyecto implementa una librería de alto rendimiento en ARM64 Assembly, integrada con Python mediante C y ctypes.
+Autor: Jardin Gracia Jose Alberto
+
+Descripción: Este proyecto implementa una librería de alto rendimiento en ARM64 Assembly, integrada con Python mediante C y ctypes.
 
 Objetivo
 Demostrar la interoperabilidad entre lenguajes de alto y bajo nivel, así como analizar el rendimiento.
 
-Tecnologías
+Tecnologías:
+
 Python 3
+
 C (clang)
+
 ARM64 Assembly (AArch64)
+
 Termux / Raspberry Pi OS
-Funcionalidades
+
+Funcionalidades:
+
 Operaciones básicas
+
 Procesamiento de arreglos
+
 Funciones optimizadas en ensamblador
+
 Compilación
+
 make
+
 Ejecución
+
 python src/app.py
+
 Resultados esperados
+
 Comparación de rendimiento entre:
 
 Python
+
 C
+
 Assembly
+
 Conclusiones
 [Explica lo aprendido]
 
